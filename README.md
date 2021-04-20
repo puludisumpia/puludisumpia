@@ -1,6 +1,6 @@
 ![alt text][logo]
 
-[logo]: ph3.png
+[logo]: ph4.png
 
 #### MPIA MIMPIYA PULUDISU
 
