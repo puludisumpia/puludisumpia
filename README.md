@@ -1,6 +1,6 @@
-#MPIA MIMPIYA PULUDISU
+# MPIA MIMPIYA PULUDISU
 
-Bonjout et bienvenu(e) sur mon profile Github. Je suis un passionné de la programmation Informatique et je suis un grand fervent du monde libre.
+Bonjour et bienvenu(e) sur mon profile Github. Je suis un passionné de la programmation Informatique et je suis un grand fervent du monde libre.
 
 Alors, j'utilise les technologies suivantes:
 ### 1. Python
